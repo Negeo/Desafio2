@@ -1,0 +1,50 @@
+header {
+    height: 10em;
+    padding: 3em;
+    padding-left: 15%;
+    font-size: 1rem;
+    background-color: aquamarine;
+    background-image: url("../imgs/baul.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+    background-position-x: 85%;
+}
+.headerh1{
+    margin: 0px;
+}
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: antiquewhite;
+}
+.caja{
+    background-color: rgb(55, 230, 163);
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+.imagen{
+    background-color: rgb(180, 243, 243);
+    width: 35%;
+    text-align: center;
+    padding: 20px;
+}
+.imgproductos {
+    width: 8rem;
+}  
+.descripcion {
+    background-color: rgb(180, 243, 243);
+    width: 35%;
+    text-align: center;
+    padding: 20px;
+}
+footer {
+    background-color: aqua;
+    text-align: center;
+}
+.imgfooter {
+    width: 1em;
+    display: inline;
+    float: inline-end;
+    margin-inline-end: 10px;
+}  
